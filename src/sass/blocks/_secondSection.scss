@@ -1,0 +1,11 @@
+.second {
+    height: 683px;
+    background: url(/img/2.jpeg) center (center/cover) no-repeat;
+    
+    &__descr {
+        width: 45%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        color: #fff;
+    }
+}

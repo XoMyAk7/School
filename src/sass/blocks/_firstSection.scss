@@ -1,0 +1,13 @@
+.first {
+    height: 1290px;
+    background: url(/img/1.jpeg) center (center/cover) no-repeat;
+    
+    &__descr {
+        margin-left: auto;
+        margin-right: 0;
+        width: 45%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        color: #fff;
+    }
+}
