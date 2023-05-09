@@ -1,8 +1,9 @@
 .second {
-    height: 683px;
-    background: url(../img/2.jpeg) center (center/cover) no-repeat;
+    min-height: 683px;
+    background: url(../img/2.jpg) center (center/cover) no-repeat;
     
     &__descr {
+        min-height: 683px;
         width: 45%;
         height: 100%;
         background: rgba(0,0,0,0.5);

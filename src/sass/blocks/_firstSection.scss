@@ -1,8 +1,9 @@
 .first {
-    height: 1290px;
+    min-height: 800px;
     background: url(../img/1.jpeg) center (center/cover) no-repeat;
     
     &__descr {
+        min-height: 800px;
         margin-left: auto;
         margin-right: 0;
         width: 45%;
